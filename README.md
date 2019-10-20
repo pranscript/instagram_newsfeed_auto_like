@@ -1,0 +1,1 @@
+Script that automatically likes your Instagram news feed through your browser.
