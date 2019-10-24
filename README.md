@@ -4,7 +4,7 @@ A simple script that automatically likes your news feed through your browser.
 
 ## Usage
 
-* Tested on Chrome Browser.
+* Tested on Chrome Browser and Mozilla Firefox.
 * Copy, paste and run it in the console tab(Developer tools) in the browser.
 * Run it in the same tab as your news feed.
 
