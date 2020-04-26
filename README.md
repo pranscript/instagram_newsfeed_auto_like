@@ -14,3 +14,7 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
+
+****
+
+[![HitCount](http://hits.dwyl.com/pranscript/instagram_newsfeed_auto_like.svg)](http://hits.dwyl.com/pranscript/instagram_newsfeed_auto_like)
